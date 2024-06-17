@@ -1,0 +1,14 @@
+{
+  "resourceName": "image",
+  "policyUUID": "896c7248",
+  "bucketName": "awsapplication02b6a5cec6a040a6a615e718c6f60b9d",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
