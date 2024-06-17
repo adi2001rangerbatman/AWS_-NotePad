@@ -10,7 +10,7 @@ import com.example.aws_application.R
 import com.example.aws_application.UserData
 
 // this is a single cell (row) in the list of Notes
-class NoteRecyclerViewAdapter(
+class NoteRecyclerViewAdapter(  
     private val values: MutableList<UserData.Note>?) :
     RecyclerView.Adapter<NoteRecyclerViewAdapter.ViewHolder>() {
 
